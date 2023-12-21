@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028342419974",
+    "project_id": "findschool-32001",
+    "storage_bucket": "findschool-32001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028342419974:android:8520999d3b2623bba32987",
+        "android_client_info": {
+          "package_name": "com.find.school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjlN7moitTPXRfRLyPI3e56yonMSXckKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028342419974:android:e0856207cbc9182ba32987",
+        "android_client_info": {
+          "package_name": "com.lpk.etutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjlN7moitTPXRfRLyPI3e56yonMSXckKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
